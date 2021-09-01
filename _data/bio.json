@@ -6,7 +6,7 @@
     "email": "Keonhwi@hawaii.edu",
     "phone": "808-397-6550",
     "website": "https://keonhwi.github.io",
-    "summary": "I am studying for a B.B.S. in Management information systems at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.B.S. in Management information systems at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
       "postalCode": "96817",
@@ -41,15 +41,21 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Korean"
+        "English"
+        
+      ]
+    },
+    {
+      "name": "Microsoft office",
+      "level": "",
+      "keywords": [
+        "Powerpoint"
+        "Excel"
+        "word"
       ]
     },
     {
@@ -57,19 +63,17 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Microsoft",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Management Information Systems (expected Spring, 2023)",
+      "studyType": "B.B.A.",
+      "startDate": "2018-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -78,69 +82,55 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Subway Sandwich",
+      "position": "Store manager",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2018-08-01",
+      "endDate": "2020",
+      "summary": "Manage store as a manager",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Help customer with their problems and support workers",
+        "Keep track of stock and maintain store quality"
+        "Summit weekly report"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "organization": "Blood Bank of Hawaii",
+      "website": "https://www.bbh.org/",
+      "position": "Blood donor",
       "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Consistent donation to Blood bank of Hawaii",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Donate whole blood, plasma, red cell when they need it"
       ]
     },
     {
-      "organization": "",
+      "organization": "OUtlaws softball Hawaii",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Assist Coach",
+      "startDate": "2017",
+      "endDate": "Present",
+      "summary": "Help players with skills and knowledge",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Attend weekly practice and game"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "International Merit Award Scholarship	",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Scholarships awarded to transfer students who completewith a minimum overall GPA of 3.0 ."
     },
     {
-      "title": "First place",
+      "title": "UHM CC Transfer Merit Award",
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "summary": "Transferring to UH Mānoa for Fall 21 with minimun GPA of 3.3 had to summit application and got selected"
     }
   ],
   "references": [
