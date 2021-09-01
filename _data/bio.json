@@ -8,7 +8,7 @@
     "website": "https://keonhwi.github.io",
     "summary": "I am studying for a B.B.S. in Management information systems at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
-      "address": ,
+      "address": "",
       "postalCode": "96817",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "Finshing",
+      "name": "Fishing",
       "keywords": [
       ]
     },
@@ -47,7 +47,7 @@
   "skills": [
     {
       "name": "Languages",
-      "level": ,
+      "level":"Fluent",
       "keywords": [
         "Korean",
         "English"
@@ -55,7 +55,7 @@
     },
     {
       "name": "Microsoft office",
-      "level": ,
+      "level": "Proficient",
       "keywords": [
         "Powerpoint",
         "Excel",
@@ -64,7 +64,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "level": ,
+      "level": "Proficient",
       "keywords": [
         "MacOS",
         "Microsoft",
@@ -79,7 +79,7 @@
       "studyType": "B.B.A.",
       "startDate": "2018-09-01",
       "endDate": "Present",
-      "gpa": ,
+      "gpa": "3.0",
       "courses": [
       ]
     }
@@ -88,7 +88,7 @@
     {
       "company": "Subway Sandwich",
       "position": "Store manager",
-      "website": ,
+      "website": "Website here",
       "startDate": "2018-08-01",
       "endDate": "2020",
       "summary": "Manage store as a manager",
@@ -113,7 +113,7 @@
     },
     {
       "organization": "OUtlaws softball Hawaii",
-      "website": ,
+      "website": "Website here",
       "position": "Assist Coach",
       "startDate": "2017",
       "endDate": "Present",
@@ -140,7 +140,7 @@
   "references": [
     {
       "name": "Available upon request",
-      "reference": 
+      "reference": "Reference here"
     }
   ]
 }
