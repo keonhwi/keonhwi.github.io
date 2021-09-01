@@ -44,7 +44,7 @@
       "name": "Languages",
       "level": "",
       "keywords": [
-        "Korean"
+        "Korean",
         "English"
       ]
     },
@@ -52,8 +52,8 @@
       "name": "Microsoft office",
       "level": "",
       "keywords": [
-        "Powerpoint"
-        "Excel"
+        "Powerpoint",
+        "Excel",
         "word"
       ]
     },
@@ -63,7 +63,7 @@
       "keywords": [
         "MacOS",
         "Microsoft",
-        "Git/GitHub",
+        "Git/GitHub"
       ]
     }
   ],
