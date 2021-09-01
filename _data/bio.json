@@ -34,13 +34,13 @@
       "name": "Golf"
     },
     {
-      "name": "New Technlogy"
+      "name": "New Technology"
     }
   ],
   "skills": [
     {
       "name": "Languages",
-      "level":"Fluent",
+      "level": "Fluent",
       "keywords": [
         "Korean",
         "English"
@@ -117,13 +117,13 @@
       "title": "International Merit Award Scholarship",
       "date": "2021-Present",
       "awarder": "University of Hawaii",
-      "summary": "Scholarships awarded to transfer students who completewith a minimum overall GPA of 3.0 ."
+      "summary": "Scholarships awarded to transfer students who complete with a minimum overall GPA of 3.0 ."
     },
     {
       "title": "UHM CC Transfer Merit Award",
       "date": "2015",
       "awarder": "University of Hawaii",
-      "summary": "Transferring to UH Mānoa for Fall 21 with minimun GPA of 3.3 had to summit application and got selected"
+      "summary": "Transferring to UH Mānoa for Fall 21 with minimum GPA of 3.3 had to summit application and got selected"
     }
   ],
   "references": [
