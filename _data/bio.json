@@ -47,7 +47,7 @@
   "skills": [
     {
       "name": "Languages",
-      "level": "",
+      "level": ,
       "keywords": [
         "Korean",
         "English"
@@ -55,7 +55,7 @@
     },
     {
       "name": "Microsoft office",
-      "level": "",
+      "level": ,
       "keywords": [
         "Powerpoint",
         "Excel",
@@ -64,10 +64,10 @@
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": ,
       "keywords": [
         "MacOS",
-        "Microsoft",
+        "Microsof,
         "Git/GitHub"
       ]
     }
@@ -79,7 +79,7 @@
       "studyType": "B.B.A.",
       "startDate": "2018-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": ,
       "courses": [
       ]
     }
@@ -88,7 +88,7 @@
     {
       "company": "Subway Sandwich",
       "position": "Store manager",
-      "website": "",
+      "website": ,
       "startDate": "2018-08-01",
       "endDate": "2020",
       "summary": "Manage store as a manager",
@@ -113,7 +113,7 @@
     },
     {
       "organization": "OUtlaws softball Hawaii",
-      "website": "",
+      "website": ,
       "position": "Assist Coach",
       "startDate": "2017",
       "endDate": "Present",
@@ -140,7 +140,7 @@
   "references": [
     {
       "name": "Available upon request",
-      "reference": ""
+      "reference": 
     }
   ]
 }
