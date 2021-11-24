@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: E4: Progress in Programming Report
+title: E4 Progress in Programming Report
 date: 2021-11-24
 ---
 
