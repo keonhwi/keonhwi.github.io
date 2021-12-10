@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: E5 Reflecting on Assignment 2
-date: 2021-12-9
+date: 2021-12-09
 ---
 
 1. Provide a brief introduction to the assignment along with a link to this page for further details
