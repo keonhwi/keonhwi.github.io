@@ -5,7 +5,7 @@ title: E4 Progress in Programming Report
 date: 2021-11-24
 ---
 
-1. My programming skills have greatly improved in the following ways:
+1.My programming skills have greatly improved in the following ways:
     Honestly think that I am not that much better than how I was before because I am still learning. But I think that the way I understand code and the material is getting better.  The more I practice the more I get better at coding and understanding the steps. By doing assignment 1, I was able to understand the server side of codes and I was actually surprised that this simple code on the server can execute many functions. 
 2. I need to work on the following to improve my programming skills:
     I need to have a better understanding of each command and actions of the code. I think this comes with more practiice and repetition. I have trouble with fixing my own codes however, fixing my own codes is a great way to practice because I can point out what I am ding wrong and find the solution. 
