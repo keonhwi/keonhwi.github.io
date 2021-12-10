@@ -1,9 +1,8 @@
 ---
 layout: essay
 type: essay
-title: E5: Reflecting on Assignment 2
-# All dates must be YYYY-MM-DD format!
-date: 2021-12-09
+title: E5
+date: 2021-11-24
 ---
 
 1. Provide a brief introduction to the assignment along with a link to this page for further details
