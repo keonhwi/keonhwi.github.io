@@ -10,28 +10,28 @@ By the date and time indicated on the Schedule page (due no more than 1 day afte
 
 When providing answers to the following items, be as specific as possible. Avoid vague answers like “I learned a lot” and “My partner did all the work”. However, be as concise as possible. Copy this list of questions and put your responses below them:
 
-Briefly describe your system (e.g. A store selling Pokemon game cards)
+1. Briefly describe your system (e.g. A store selling Pokemon game cards)
 
-Any notable shortcomings, bugs, problems, or additional features not implemented?
+2. Any notable shortcomings, bugs, problems, or additional features not implemented?
 
-Describe what you are most proud of about your system:
+3. Describe what you are most proud of about your system:
 
-Describe what you are least happy with your system:
+4. Describe what you are least happy with your system:
 
-How was developing this assignment different than assignment #2?
+5. How was developing this assignment different than assignment #2?
 
-When you ran into a problem, what did you do to address it?
+6. When you ran into a problem, what did you do to address it?
 
-Describe what worked well in doing this assignment?
+7. Describe what worked well in doing this assignment?
 
-Describe what did not work well in doing this assignment?
+8. Describe what did not work well in doing this assignment?
 
-What did you learn from doing this assignment?
+9. What did you learn from doing this assignment?
 
-If you could go back in time and do things differently, what would you change?
+10. If you could go back in time and do things differently, what would you change?
 
-Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging
+11. Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging
 
-Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself) and explain briefly your rationale for the percentage breakdown. Be sure to include an overview of what specifically you and your partners contributed (e.g. “I worked on the security and my partner 1 worked on personalization”)
+12. Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself) and explain briefly your rationale for the percentage breakdown. Be sure to include an overview of what specifically you and your partners contributed (e.g. “I worked on the security and my partner 1 worked on personalization”)
 
 Use the same blog as you did in E1. When you complete your blog entry submit the link to Laulima as you did in E1.
